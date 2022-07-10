@@ -4,6 +4,9 @@
 	width: 100%;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
 }
 
 button {
