@@ -37,9 +37,11 @@ button:hover {
 
 h3 {
 	font-weight: 600;
+	margin: 5px;
 }
 
 h4 {
 	font-weight: 400;
 	font-size: 14px;
+	margin: 5px;
 }
